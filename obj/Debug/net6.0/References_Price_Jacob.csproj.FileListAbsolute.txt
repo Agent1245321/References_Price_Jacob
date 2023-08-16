@@ -1,0 +1,14 @@
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\bin\Debug\net6.0\References_Price_Jacob.exe
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\bin\Debug\net6.0\References_Price_Jacob.deps.json
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\bin\Debug\net6.0\References_Price_Jacob.runtimeconfig.json
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\bin\Debug\net6.0\References_Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\bin\Debug\net6.0\References_Price_Jacob.pdb
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.AssemblyInfoInputs.cache
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.AssemblyInfo.cs
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.csproj.CoreCompileInputs.cache
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\refint\References_Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.pdb
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\References_Price_Jacob.genruntimeconfig.cache
+C:\Users\JacobPrice\source\repos\References_Price_Jacob\obj\Debug\net6.0\ref\References_Price_Jacob.dll
